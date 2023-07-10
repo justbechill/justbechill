@@ -1,1 +1,1 @@
-[![Top Langs](github-readme-stats-thing-complete.vercel.app)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](github-readme-stats-thing-complete.vercel.app)]([https://github.com/anuraghazra/github-readme-stats]([https://github.com/JustBeChill/github-readme-stats-thing](https://github.com/JustBeChill/github-readme-stats-thing)https://github.com/JustBeChill/github-readme-stats-thing))
