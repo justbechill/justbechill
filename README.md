@@ -1,1 +1,1 @@
-Pay no attention to this github, I just do random personal projects
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justbechill&layout=compact)
