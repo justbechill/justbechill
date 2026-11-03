@@ -1,1 +1,4 @@
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justbechill&layout=compact&theme=dark&hide_border=true&bg_color=22272E00)
+Class of 2029 Computer Engineering student at UC San Diego
+I like computers, programming, embedded hardware, and robotics.
+
+Contact me at kmalling16@gmail.com
